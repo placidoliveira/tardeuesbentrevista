@@ -22,7 +22,9 @@
         <itunes:category text="Music">
             <itunes:category text="Music Interviews"/>
         </itunes:category>
-        <itunes:category text="Society &amp; Culture"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Documentary"/>
+        </itunes:category>
 
         <atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
 
