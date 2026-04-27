@@ -17,7 +17,7 @@
 		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
 		<pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
 		
-		<atom:link href="https://placidoliveira.github.io/tarduesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
 		
 		<itunes:author>Plácido Oliveira</itunes:author>
 		<itunes:subtitle>Cultura e informação em profundidade.</itunes:subtitle>
@@ -38,14 +38,4 @@
 		<item>
 			<title>Tarde UESB Entrevista: Shau Saturno (2025)</title>
 			<link>http://radio.distintivoblue.com/2026/04/entrevista-shau-saturno.html</link>
-			<pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
-			<guid isPermaLink="false">tardeuesb-e01</guid>
-			<description><![CDATA[Neste episódio de estreia, Plácido Oliveira recebe Shau Saturno para uma conversa sobre trajetória musical e processos criativos.]]></description>
-			<enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/TARDEUESBENTREVISTA_SHAUSATURNO2025.mp3" length="123626496" type="audio/mpeg"/>
-			<itunes:duration>1:25:50</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:author>Plácido Oliveira</itunes:author>
-		</item>
-		
-	</channel>
-</rss>
+			<pubDate>Mon, 2
