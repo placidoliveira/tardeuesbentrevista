@@ -9,11 +9,11 @@
         <link>https://radio.distintivoblue.com</link>
         <language>pt-br</language>
         <copyright>Copyright @ 2026 Plácido Oliveira</copyright>
-        <itunes:author>Plácido Oliveira</itunes:author>
-        <description>Entrevistas do programa Tarde UESB.</description>
+        <itunes:author>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:author>
+        <description>Entrevistas do programa Tarde UESB, por Plácido Oliveira.</description>
         <itunes:type>episodic</itunes:type>
         <itunes:owner>
-            <itunes:name>Plácido Oliveira</itunes:name>
+            <itunes:name>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:name>
             <itunes:email>radio@distintivoblue.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20TARDE%20UESB%20ENTREVISTA%20PODCAST%20PRINCIPAL.png"/>
@@ -24,7 +24,7 @@
 
         <item>
             <title>Shau Saturno (2025)</title>
-            <itunes:author>Plácido Oliveira</itunes:author>
+            <itunes:author>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:author>
             <description>Conversa com Shau Saturno gravada originalmente para a UESB FM.</description>
             <itunes:summary>Neste episódio de estreia, recebemos Shau Saturno para falar sobre música e cultura.</itunes:summary>
             <pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
