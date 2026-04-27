@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:media="http://search.yahoo.com/mrss/">
-	
-	<channel>
-		<title>Tarde UESB | Entrevistas</title>
-		<link>https://radio.distintivoblue.com</link>
-		<description>As entrevistas que marcam as tardes da UESB FM. Um espaço dedicado a diálogos profundos com artistas, pesquisadores e personalidades da nossa cultura, conduzido por Plácido Oliveira.</description>
-		<language>pt-br</language>
-		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
-		<pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
-		
-		<atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
-		
-		<itunes:author>Plácido Oliveira</itunes:author>
-		<itunes:subtitle>Cultura e informação em profundidade.</itunes:subtitle>
-		<itunes:summary>O podcast que reúne as entrevistas do programa Tarde UESB. Diálogos essenciais com quem faz a cultura acontecer.</itunes:summary>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:owner>
-			<itunes:name>Plácido Oliveira</itunes:name>
-			<itunes:email>radio@distintivoblue.com</itunes:email>
-		</itunes:owner>
-		
-		<itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20TARDE%20UESB%20ENTREVISTA%20PODCAST%20PRINCIPAL.png"/>
-		
-		<itunes:category text="Music">
-			<itunes:category text="Music Interviews"/>
-		</itunes:category>
-		<itunes:category text="Society &amp; Culture"/>
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    
+    <channel>
+        <title>Tarde UESB Entrevista</title>
+        <link>https://radio.distintivoblue.com</link>
+        <language>pt-br</language>
+        <copyright>Copyright @ 2026 Plácido Oliveira</copyright>
+        <itunes:author>Plácido Oliveira</itunes:author>
+        <description>Entrevistas do programa Tarde UESB.</description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>Plácido Oliveira</itunes:name>
+            <itunes:email>radio@distintivoblue.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20TARDE%20UESB%20ENTREVISTA%20PODCAST%20PRINCIPAL.png"/>
+        <itunes:category text="Music">
+            <itunes:category text="Music Interviews"/>
+        </itunes:category>
+        <atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
 
-		<item>
-			<title>Tarde UESB Entrevista: Shau Saturno (2025)</title>
-			<link>http://radio.distintivoblue.com/2026/04/entrevista-shau-saturno.html</link>
-			<pubDate>Mon, 2
+        <item>
+            <title>Shau Saturno (2025)</title>
+            <itunes:author>Plácido Oliveira</itunes:author>
+            <description>Conversa com Shau Saturno gravada originalmente para a UESB FM.</description>
+            <itunes:summary>Neste episódio de estreia, recebemos Shau Saturno para falar sobre música e cultura.</itunes:summary>
+            <pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e01</guid>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/TARDEUESBENTREVISTA_SHAUSATURNO2025.mp3" length="123626496" type="audio/mpeg"/>
+            <itunes:duration>1:25:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>
