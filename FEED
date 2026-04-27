@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	
+	<channel>
+		<title>NOME DO PODCAST | Entrevistas</title>
+		<link>https://radio.distintivoblue.com</link>
+		<description>As entrevistas exclusivas conduzidas por Plácido Oliveira, explorando histórias, trajetórias e as mentes por trás da música e da cultura.</description>
+		<language>pt-br</language>
+		<copyright>Copyright @ 2026 Plácido Oliveira</copyright>
+		<pubDate>Mon, 27 Apr 2026 12:00:00 -0300</pubDate>
+		
+		<atom:link href="https://placidoliveira.github.io/ENTREVISTAS/feed.xml" rel="self" type="application/rss+xml"/>
+		
+		<itunes:author>Plácido Oliveira</itunes:author>
+		<itunes:subtitle>Conversas profundas sobre música e história</itunes:subtitle>
+		<itunes:summary>Um mergulho nas entrevistas conduzidas por Plácido Oliveira. Diálogos essenciais com músicos e personalidades da cultura mundial.</itunes:summary>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Plácido Oliveira</itunes:name>
+			<itunes:email>radio@distintivoblue.com</itunes:email>
+		</itunes:owner>
+		
+		<itunes:image href="https://raw.githubusercontent.com/placidoliveira/ENTREVISTAS/main/capa_entrevistas.png"/>
+		
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Documentary"/>
+		</itunes:category>
+		<itunes:category text="Music"/>
+
+		</channel>
+</rss>
