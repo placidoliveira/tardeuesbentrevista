@@ -28,7 +28,7 @@
 
         <atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <item>
+<item>
             <title>Shau Saturno: 'Sempre fui um cara de banda' - 23/10/2025</title>
             <link>https://radio.distintivoblue.com</link>
             <itunes:author>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:author>
@@ -36,6 +36,7 @@
             <itunes:summary>Shau Saturno foi o primeiro entrevistado de Plácido Oliveira na UESB FM, em 2025, às vésperas do show comemorativo pelos 23 anos de carreira.</itunes:summary>
             <pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
             <guid isPermaLink="false">tardeuesb-e01</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA_SHAUAPPLE.jpg"/>
             <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/TARDEUESBENTREVISTA_SHAUSATURNO2025.mp3" length="117544000" type="audio/mpeg"/>
             <itunes:duration>1:21:35</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
