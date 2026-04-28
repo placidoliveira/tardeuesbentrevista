@@ -10,7 +10,7 @@
         <language>pt-br</language>
         <copyright>Copyright @ 2026 Plácido Oliveira</copyright>
         <itunes:author>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:author>
-        <description>Grandes artistas contam suas histórias e mostram suas músicas a Plácido Oliveira, ao vivo na UESB FM. Agora você pode escutar quantas vezes quiser.</description>
+        <description>Entrevistas do programa Tarde UESB, por Plácido Oliveira.</description>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
@@ -36,8 +36,8 @@
             <itunes:summary>Neste episódio de estreia, recebemos Shau Saturno para falar sobre música e cultura.</itunes:summary>
             <pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
             <guid isPermaLink="false">tardeuesb-e01</guid>
-            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/TARDEUESBENTREVISTA_SHAUSATURNO2025.mp3" length="123626496" type="audio/mpeg"/>
-            <itunes:duration>1:25:50</itunes:duration>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/TARDEUESBENTREVISTA_SHAUSATURNO2025.mp3" length="117544000" type="audio/mpeg"/>
+            <itunes:duration>1:21:35</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
 
