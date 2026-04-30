@@ -67,5 +67,18 @@
             <itunes:duration>48:23</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Guilherme Chirinéa: 'A ciência por trás da música' - 12/11/2025</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>Plácido Oliveira conversa com Guilherme Chirinéa sobre sua trajetória, influências e seu trabalho como compositor de trilhas para games.</description>
+            <itunes:summary>Plácido Oliveira conversa com Guilherme Chirinéa sobre sua trajetória, influências e seu trabalho como compositor de trilhas para games</itunes:summary>
+            <pubDate>Tue, 05 May 2026 07:15:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e04</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA_GUILHERMEAPPLE.jpg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/004%20-%20GUILHERME.mp3" length="80845209" type="audio/mpeg"/>
+            <itunes:duration>56:07</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
