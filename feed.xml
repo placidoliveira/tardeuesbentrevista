@@ -80,5 +80,18 @@
             <itunes:duration>56:07</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Lucas Lins: 'A nova MPB e as texturas sonoras' - 04/12/2025</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>Neste quinto episódio da estreia, Plácido Oliveira recebe Lucas Lins para discutir os novos rumos da MPB, produção de texturas sonoras e sua caminhada artística.</description>
+            <itunes:summary>Uma conversa profunda sobre música, criatividade e carreira com Lucas Lins, gravada originalmente para a UESB FM.</itunes:summary>
+            <pubDate>Tue, 05 May 2026 07:20:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e05</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA_LUCASAPPLE.jpg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/005%20-%20LUCASLINS.mp3" length="69625446" type="audio/mpeg"/>
+            <itunes:duration>48:19</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
