@@ -31,7 +31,7 @@
 <item>
             <title>Shau Saturno: 'Sempre fui um cara de banda' - 23/10/2025</title>
             <link>https://radio.distintivoblue.com</link>
-            <itunes:author>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:author>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
             <description>Shau Saturno foi o primeiro entrevistado de Plácido Oliveira na UESB FM, em 2025, às vésperas do show comemorativo pelos 23 anos de carreira.</description>
             <itunes:summary>Shau Saturno foi o primeiro entrevistado de Plácido Oliveira na UESB FM, em 2025, às vésperas do show comemorativo pelos 23 anos de carreira.</itunes:summary>
             <pubDate>Mon, 27 Apr 2026 17:00:00 -0300</pubDate>
@@ -44,7 +44,7 @@
 <item>
             <title>Cátia Guimma: 'O Axé é minha zona de conforto' - 30/10/2025</title>
             <link>https://radio.distintivoblue.com</link>
-            <itunes:author>Uesb FM / Memória Musical do Sudoeste da Bahia</itunes:author>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
             <description>Neste segundo episódio, Plácido Oliveira conversa com a cantora Cátia Guimma sobre sua carreira, o então recém-apresentado espetáculo "Cátia canta Elis", acompanhada do músico e produtor Luciano PP.</description>
             <itunes:summary>Neste segundo episódio, Plácido Oliveira conversa com a cantora Cátia Guimma sobre sua carreira, o então recém-apresentado espetáculo "Cátia canta Elis", acompanhada do músico e produtor Luciano PP.</itunes:summary>
             <pubDate>Tue, 05 May 2026 07:05:00 -0300</pubDate>
@@ -52,6 +52,19 @@
             <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA_CATIAAPPLE.jpg"/>
             <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/02-CATIAGUIMMA.mp3" length="96259276" type="audio/mpeg"/>
             <itunes:duration>1:06:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Danilo Souza: 'Percebi um espaço vago e decidi ocupá-lo' - 06/11/2025</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM,  Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>Danilo Souza, estudante de jornalismo pela UESB, é um dos mais atuantes no campo do jornalismo musical, além de artista autoral. Neste episódio, conhecemos sua trajetória e histórias.</description>
+            <itunes:summary>Danilo Souza, estudante de jornalismo pela UESB, é um dos mais atuantes no campo do jornalismo musical, além de artista autoral. Neste episódio, conhecemos sua trajetória e histórias.</itunes:summary>
+            <pubDate>Tue, 05 May 2026 07:10:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e03</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA_DANILOAPPLE.jpg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/003_DANILOSOUZA.mp3" length="69672960" type="audio/mpeg"/>
+            <itunes:duration>48:23</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
