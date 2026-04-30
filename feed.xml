@@ -93,5 +93,18 @@
             <itunes:duration>48:19</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Jayvee Viana: 'A força da nova cena autoral' - 11/12/2025</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>No sexto episódio da nossa estreia, Plácido Oliveira conversa com Jayvee Viana sobre composições autorais, os novos palcos do Sudoeste e sua identidade artística.</description>
+            <itunes:summary>Jayvee Viana abre o jogo sobre sua carreira e o processo de criação de suas músicas nesta entrevista gravada para a UESB FM.</itunes:summary>
+            <pubDate>Tue, 05 May 2026 07:25:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e06</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20PODCAST%20ENTREVISTA%203000%20JAY.jpg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/006%20-%20JAYVEE.mp3" length="89548390" type="audio/mpeg"/>
+            <itunes:duration>1:02:11</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
