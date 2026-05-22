@@ -107,7 +107,7 @@
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>Ailton Dias: 'Meu trabalho é de 8 a 80' - 19/05/2026</title>
+            <title>Ailton Dias: 'Meu trabalho é de 8 a 80' - 27/11/2025</title>
             <link>https://radio.distintivoblue.com</link>
             <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
             <description>O cordelista e poeta Ailton Dias recita poemas e conta sua história a Plácido Oliveira.</description>
@@ -117,6 +117,19 @@
             <itunes:image href="https://ia800704.us.archive.org/11/items/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20PODCAST%20ENTREVISTA%203000%C2%A0%281%29.jpeg"/>
             <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/007%20-%20AILTONDIAS.mp3" length="68576870" type="audio/mpeg"/>
             <itunes:duration>47:35</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Gabriely da Hora: 'Estou vencendo meus medos através da música' - 18/12/2025</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>A jovem cantora e compositora Gabriely Da Hora apresenta sua história e suas canções.</description>
+            <itunes:summary>A jovem cantora e compositora Gabriely Da Hora apresenta sua história e suas canções.</itunes:summary>
+            <pubDate>Fri, 22 May 2026 07:00:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e08</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/008%20GABRIELY.jpeg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/008%20-%20GABRIELY%20.mp3" length="64172851" type="audio/mpeg"/>
+            <itunes:duration>44:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
