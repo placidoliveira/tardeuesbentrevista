@@ -145,5 +145,18 @@
             <itunes:duration>00:23:32</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Dan Ribeiro: 'a técnica deve estar a serviço da música, e não o contrário' - 15/01/2026</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>o guitarrista guanambiense Dan Ribeiro conta sua história e pontos de vista sobre a música.</description>
+            <itunes:summary>o guitarrista guanambiense Dan Ribeiro conta sua história e pontos de vista sobre a música.</itunes:summary>
+            <pubDate>Fri, 29 May 2026 08:15:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e10</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20010%20DAN.jpeg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/010%20DAN%20RIBEIRO.mp3" length="79062630" type="audio/mpeg"/>
+            <itunes:duration>00:54:54</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
