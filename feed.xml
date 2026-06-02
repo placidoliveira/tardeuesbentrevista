@@ -158,5 +158,18 @@
             <itunes:duration>00:54:54</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Crescêncio Lima: 'Não existe plataforma gratuita, e sim uma impressão de gratuidade' - 22/01/2026</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>O guitarrista e professor Crescêncio Lima fala sobre sua trajetória e os desafios da música e da pesquisa em tempos de inteligência artificial</description>
+            <itunes:summary>O guitarrista e professor Crescêncio Lima fala sobre sua trajetória e os desafios da música e da pesquisa em tempos de inteligência artificial</itunes:summary>
+            <pubDate>Tue, 02 Jun 2026 16:10:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e11</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20011-CRETCHAS.jpeg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/011%20-%20CRESCENCIOLIMA.mp3" length="124256256" type="audio/mpeg"/>
+            <itunes:duration>01:26:16</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
