@@ -210,5 +210,18 @@
             <itunes:duration>01:16:15</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
+        <item>
+            <title>Luís Vilalva: 'Através de Elomar me enveredei pela música erudita' - 19/02/2026</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>O maestro Luís Vilalva, estudioso da obra elomariana, conta sua história e visões sobre a música.</description>
+            <itunes:summary>O maestro Luís Vilalva, estudioso da obra elomariana, conta sua história e visões sobre a música.</itunes:summary>
+            <pubDate>Tue, 16 Jun 2026 10:00:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e15</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20015%20-%20LUISVILALVA.jpeg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/015%20LUISVILALVA.mp3" length="118489088" type="audio/mpeg"/>
+            <itunes:duration>01:22:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
     </channel>
 </rss>
