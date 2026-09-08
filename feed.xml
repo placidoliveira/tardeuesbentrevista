@@ -29,7 +29,20 @@
         <atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
 
 
-        
+
+        <item>
+            <title>Jaivan Acioly: 'Meu letramento vem dos cordéis' - 23/07/2026</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>O multiartista e professor Jaivan Acioly conta sua história no Tarde Uesb Entrevista.</description>
+            <itunes:summary>O multiartista e professor Jaivan Acioly conta sua história no Tarde Uesb Entrevista.</itunes:summary>
+            <pubDate>Fri, 04 Sep 2026 15:00:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e37</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20037.jpeg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/037%20-%20JAIVAN.mp3" length="71722598" type="audio/mpeg"/>
+            <itunes:duration>01:14:40</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
 <item>
             <title>5C1: 'Não nos prendemos a um estilo, por isso o nosso processo de composição é natural' - 16/07/2026</title>
             <link>https://radio.distintivoblue.com</link>
