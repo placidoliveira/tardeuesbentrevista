@@ -29,7 +29,19 @@
         <atom:link href="https://placidoliveira.github.io/tardeuesbentrevista/feed.xml" rel="self" type="application/rss+xml"/>
 
 
-
+<item>
+            <title>Paula Babilônia - 20/08/2026</title>
+            <link>https://radio.distintivoblue.com</link>
+            <itunes:author>Uesb FM, Memória Musical do Sudoeste da Bahia</itunes:author>
+            <description>A professora Paula Babilônia apresenta a sua pesquisa sobre o Cemitério da Saudade, em Conquista, e recorda a cena rock conquistense da década de 2000.</description>
+            <itunes:summary>A professora Paula Babilônia apresenta a sua pesquisa sobre o Cemitério da Saudade, em Conquista, e recorda a cena rock conquistense da década de 2000.</itunes:summary>
+            <pubDate>Wed, 09 Sep 2026 16:00:00 -0300</pubDate>
+            <guid isPermaLink="false">tardeuesb-e38</guid>
+            <itunes:image href="https://archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/CAPA%20038.jpeg"/>
+            <enclosure url="https://media.blubrry.com/3957900/archive.org/download/capa-tarde-uesb-entrevista-podcast-principal/038%20PAULA%20BABILONIA.mp3" length="61132636" type="audio/mpeg"/>
+            <itunes:duration>01:03:37</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
         <item>
             <title>Jaivan Acioly: 'Meu letramento vem dos cordéis' - 23/07/2026</title>
             <link>https://radio.distintivoblue.com</link>
